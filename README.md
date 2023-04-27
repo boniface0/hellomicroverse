@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 
@@ -98,3 +99,8 @@ To run the project, execute the following command:
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+=======
+# hellomicroverse : module 1
+First hello project in microverse
+Tech Stack
+>>>>>>> ff9f7a2ce3f14693b3678bb29a3a2a709a8edc91
